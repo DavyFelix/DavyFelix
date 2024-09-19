@@ -2,7 +2,8 @@
 </div> 
 Eu sou o Davy de Souza! 👋
 Sou apaixonado por programação e tecnologia, sempre em busca de aprender e me desafiar com novos projetos. Tenho experiência em uma ampla gama de linguagens e frameworks, e gosto de criar soluções que façam a diferença. No meu GitHub, você vai encontrar projetos focados em desenvolvimento web, automações, e muito mais. Vamos construir algo incrível juntos!
-<br>
+
+  ##
 <div align="center">
   <a href="https://github.com/DavydeSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavydeSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
