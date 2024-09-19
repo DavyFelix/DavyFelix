@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75711&random=false&width=200&lines=Hello;你好;Hola;Привет;Salut;こんにちは;Hallo;Ciao;안녕하세요 " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#477998&random=false&width=200&lines=Hello;你好;Hola;Привет;Salut;Olá;こんにちは;Hallo;Ciao;안녕하세요 " alt="Typing SVG" /></a>
 </div> 
 Eu sou o Davy de Souza! 👋
 Sou apaixonado por programação e tecnologia, sempre em busca de aprender e me desafiar com novos projetos. Tenho experiência em uma ampla gama de linguagens e frameworks, e gosto de criar soluções que façam a diferença. No meu GitHub, você vai encontrar projetos focados em desenvolvimento web, automações, e muito mais. Vamos construir algo incrível juntos!
