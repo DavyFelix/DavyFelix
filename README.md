@@ -31,4 +31,4 @@ Sou apaixonado por programação e tecnologia, sempre em busca de aprender e me 
   <a href="https://br.linkedin.com/in/davy-de-souza-547a6419b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DavydeSouza/DavydeSouza/output/snake.svg" alt="Snake animation" />
