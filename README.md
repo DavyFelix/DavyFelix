@@ -5,6 +5,9 @@
 </div>
 Eu sou o Davy de Souza! 👋
 Sou apaixonado por programação e tecnologia, sempre em busca de aprender e me desafiar com novos projetos. Tenho experiência em uma ampla gama de linguagens e frameworks, e gosto de criar soluções que façam a diferença. No meu GitHub, você vai encontrar projetos focados em desenvolvimento web, automações, e muito mais. Vamos construir algo incrível juntos!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydeSouza&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
