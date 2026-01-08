@@ -44,14 +44,6 @@ Gosto de trabalhar com **desenvolvimento web, mobile e automações**, criando s
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-chi.vercel.app/api?username=DavyFelix&show_icons=true&theme=nightowl" />
-<img height="160em" src="https://github-readme-stats-chi.vercel.app/api/top-langs/?username=DavyFelix&layout=compact&theme=nightowl" />
-
-</div>
 
 ---
 
