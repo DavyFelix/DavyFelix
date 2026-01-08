@@ -33,6 +33,7 @@ Gosto de trabalhar com **desenvolvimento web, mobile e automações**, criando s
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" height="40" />
 
 </div>
 
