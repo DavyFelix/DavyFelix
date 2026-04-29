@@ -38,6 +38,10 @@ Gosto de trabalhar com **desenvolvimento web, mobile e automações**, criando s
 </div>
 
 ---
+<div align="center" style="margin-bottom:100px">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=DavyFelix&theme=transparent&mode=weekly" />
+  <!-- <img width="40%" src="https://github-readme-stats-liard-nine-96.vercel.app/api/top-langs/?username=Danreby&show_icons=true&theme=transparent&layout=compact" /> -->
+</div>
 
 
 ---
